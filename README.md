@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Hi, My name is Kit.
+I am from Hong Kong and arrived Vancouver last year. I am student of web development in Cornerstone International Community College and in my COOP term now.
+Actively looking for job opportunities in web/ front-end development.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kit486759)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Kit486759/Kit486759** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

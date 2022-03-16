@@ -3,7 +3,8 @@
 ##### Hi, I am Kit So.
 
 #### About Me
-My name is Kit. I am from Hong Kong and arrived Vancouver last year. I am student of web development in Cornerstone International Community College and in my COOP term now. Actively looking for job opportunities in web/ front-end development.
+My name is Kit. I finished the academic term of the web development diploma at Cornerstone International Community College Canada, looking for a work opportunity in
+web development.
 
 #### Skills
 * ⚛ React.js

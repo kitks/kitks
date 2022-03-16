@@ -44,7 +44,7 @@ https://kit486759.github.io/HK_online_store/
 
 * Rental Website - hotel booking app <br />
 https://github.com/Kit486759/react_rental_app/ <br />
-![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158546896-08a9bc26-19fb-40d5-b189-51535ff316d7.png) ![rentalGif-git2](https://user-images.githubusercontent.com/76936712/158547872-f0d959eb-1833-4f69-82fc-94734b248ad4.gif)
+![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158548346-96425bdd-d046-4505-bf27-c28a048969f8.png) ![rentalGif-git2](https://user-images.githubusercontent.com/76936712/158547872-f0d959eb-1833-4f69-82fc-94734b248ad4.gif)
 
 * Social Media App - feeds and posts <br />
 https://github.com/Kit486759/react_social_media_app/

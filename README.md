@@ -20,18 +20,32 @@ My name is Kit. I am from Hong Kong and arrived Vancouver last year. I am studen
 #### Projects:
 * Musician First- App to connect all musician <br />
 https://www.musicianfirst.ca/
+![responsive-design-mf-low](https://user-images.githubusercontent.com/76936712/158543260-80e72024-34d6-438a-9d7c-712a92c425d3.png)
+
 * Expense Trackify - expense tracker <br />
 https://expense-trackify-app.herokuapp.com/
+![responsive-design-low](https://user-images.githubusercontent.com/76936712/158544449-baaf387c-343c-4717-b312-0819de8f1b63.png)
+
 * E-Commerce Website - react online store <br />
-https://github.com/miyabitanimchi/ciccc-react-midterm-team-project
-* Cinema Website - movie and ticketing site <br />
-https://kit486759.github.io/Movie-website/
+https://bc-shop.herokuapp.com/
+![responsive-design-low](https://user-images.githubusercontent.com/76936712/158544482-ad1fcd6d-18e0-42b1-a2ba-051392c28d80.png)
+
 * Personal Website - html/ css/ javascript <br />
 https://kit486759.github.io/Final-Project/
+![responsive-design-low](https://user-images.githubusercontent.com/76936712/158544577-10e72a6c-08ad-4f07-8e49-c3c6d34befd5.png)
+
+* Cinema Website - movie and ticketing site <br />
+https://kit486759.github.io/Movie-website/
+![desktop-design-low](https://user-images.githubusercontent.com/76936712/158544603-a88640ac-b136-4a11-9aa3-a5887e75ad27.png)
+
 * HK Online Store - Store website with css and html <br />
 https://kit486759.github.io/HK_online_store/
+![desktop-design-low](https://user-images.githubusercontent.com/76936712/158544637-5e43ce3f-2477-47f6-b718-2c13ae871230.png)
+
 * Rental Website - hotel booking app <br />
 https://github.com/Kit486759/react_rental_app/
+![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158545237-3e4c09c1-80b2-429e-9745-8ff073071f01.png) ![rentalGif-git](https://user-images.githubusercontent.com/76936712/158546080-5d696f44-0cb5-480e-9c39-73b10aa23c5f.gif)
+
 * Social Media App - feeds and posts <br />
 https://github.com/Kit486759/react_social_media_app/
 * The Maze Trick - Command Line Application <br />

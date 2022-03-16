@@ -48,9 +48,12 @@ https://github.com/Kit486759/react_rental_app/ <br />
 
 * Social Media App - feeds and posts <br />
 https://github.com/Kit486759/react_social_media_app/
+![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158548997-e6b03cc9-2442-4acd-b689-b736ca06e384.png) ![demo-git](https://user-images.githubusercontent.com/76936712/158549055-4d7d1763-e978-4b15-bc7b-298752a91a76.gif)
 
 * The Maze Trick - Command Line Application <br />
 https://github.com/Kit486759/the-maze-trick/
+![demo-git](https://user-images.githubusercontent.com/76936712/158549279-cfb6be97-15aa-4216-89be-f62bb7ffad09.gif)
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kit486759)](https://github.com/anuraghazra/github-readme-stats)
 

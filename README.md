@@ -44,10 +44,11 @@ https://kit486759.github.io/HK_online_store/
 
 * Rental Website - hotel booking app <br />
 https://github.com/Kit486759/react_rental_app/
-![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158545237-3e4c09c1-80b2-429e-9745-8ff073071f01.png) ![rentalGif-git](https://user-images.githubusercontent.com/76936712/158546080-5d696f44-0cb5-480e-9c39-73b10aa23c5f.gif)
+![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158545237-3e4c09c1-80b2-429e-9745-8ff073071f01.png) ![rentalGif-git2](https://user-images.githubusercontent.com/76936712/158546642-47bd0b56-75dc-4b0b-9ed8-e7c3f7603f1f.gif)
 
 * Social Media App - feeds and posts <br />
 https://github.com/Kit486759/react_social_media_app/
+
 * The Maze Trick - Command Line Application <br />
 https://github.com/Kit486759/the-maze-trick/
 

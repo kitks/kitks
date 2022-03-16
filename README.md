@@ -48,11 +48,11 @@ https://github.com/Kit486759/react_rental_app/ <br />
 ![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158548346-96425bdd-d046-4505-bf27-c28a048969f8.png) ![rentalGif-git2](https://user-images.githubusercontent.com/76936712/158547872-f0d959eb-1833-4f69-82fc-94734b248ad4.gif)
 
 * Social Media App - feeds and posts <br />
-https://github.com/Kit486759/react_social_media_app/
+https://github.com/Kit486759/react_social_media_app/ <br />
 ![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158548997-e6b03cc9-2442-4acd-b689-b736ca06e384.png) ![demo-git](https://user-images.githubusercontent.com/76936712/158549055-4d7d1763-e978-4b15-bc7b-298752a91a76.gif)
 
 * The Maze Trick - Command Line Application <br />
-https://github.com/Kit486759/the-maze-trick/
+https://github.com/Kit486759/the-maze-trick/ <br />
 ![demo-git](https://user-images.githubusercontent.com/76936712/158549279-cfb6be97-15aa-4216-89be-f62bb7ffad09.gif)
 
 

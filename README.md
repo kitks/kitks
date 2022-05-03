@@ -56,10 +56,10 @@ https://github.com/Kit486759/the-maze-trick/ <br />
 ![demo-git](https://user-images.githubusercontent.com/76936712/158549279-cfb6be97-15aa-4216-89be-f62bb7ffad09.gif)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kit486759)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitks)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kit486759)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kitks)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kit486759)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kitks)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Profile views](https://gpvc.arturio.dev/kit486759)  
+![Profile views](https://gpvc.arturio.dev/kitks)  

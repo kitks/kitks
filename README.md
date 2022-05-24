@@ -1,4 +1,4 @@
-![Front-end developer / Designer](https://user-images.githubusercontent.com/76936712/150707758-cd580486-790a-4cf0-a671-b7f68a63ec92.png)
+![Screen Shot 2022-05-24 at 12 00 07 PM](https://user-images.githubusercontent.com/76936712/170112429-395cbe48-78cb-4686-a6ad-dbd65e2a7316.png)
 
 ##### Hi, I am Kit So.
 
@@ -32,27 +32,27 @@ https://bc-shop.herokuapp.com/
 ![responsive-design-low](https://user-images.githubusercontent.com/76936712/158544482-ad1fcd6d-18e0-42b1-a2ba-051392c28d80.png)
 
 * Personal Website - html/ css/ javascript <br />
-https://kit486759.github.io/Final-Project/
+https://kitks.github.io/Final-Project/
 ![responsive-design-low](https://user-images.githubusercontent.com/76936712/158544577-10e72a6c-08ad-4f07-8e49-c3c6d34befd5.png)
 
 * Cinema Website - movie and ticketing site <br />
-https://kit486759.github.io/Movie-website/
+https://kitks.github.io/Movie-website/
 ![desktop-design-low](https://user-images.githubusercontent.com/76936712/158544603-a88640ac-b136-4a11-9aa3-a5887e75ad27.png)
 
 * HK Online Store - Store website with css and html <br />
-https://kit486759.github.io/HK_online_store/
+https://kitks.github.io/HK_online_store/
 ![desktop-design-low](https://user-images.githubusercontent.com/76936712/158544637-5e43ce3f-2477-47f6-b718-2c13ae871230.png)
 
 * Rental Website - hotel booking app <br />
-https://github.com/Kit486759/react_rental_app/ <br />
+https://github.com/kitks/react_rental_app/ <br />
 ![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158548346-96425bdd-d046-4505-bf27-c28a048969f8.png) ![rentalGif-git2](https://user-images.githubusercontent.com/76936712/158547872-f0d959eb-1833-4f69-82fc-94734b248ad4.gif)
 
 * Social Media App - feeds and posts <br />
-https://github.com/Kit486759/react_social_media_app/ <br />
+https://github.com/kitks/react_social_media_app/ <br />
 ![desktop-design-low-git](https://user-images.githubusercontent.com/76936712/158548997-e6b03cc9-2442-4acd-b689-b736ca06e384.png) ![demo-git](https://user-images.githubusercontent.com/76936712/158549055-4d7d1763-e978-4b15-bc7b-298752a91a76.gif)
 
 * The Maze Trick - Command Line Application <br />
-https://github.com/Kit486759/the-maze-trick/ <br />
+https://github.com/kitks/the-maze-trick/ <br />
 ![demo-git](https://user-images.githubusercontent.com/76936712/158549279-cfb6be97-15aa-4216-89be-f62bb7ffad09.gif)
 
 

@@ -1,3 +1,5 @@
+<!---
+
 ![Screen Shot 2022-05-24 at 12 00 07 PM](https://user-images.githubusercontent.com/76936712/170112429-395cbe48-78cb-4686-a6ad-dbd65e2a7316.png)
 
 ##### Hi, I am Kit So.
@@ -16,7 +18,7 @@ web development.
 #### Status
 - 🌱 Actively looking for job opportunities in web/ front-end development
 
-<!---
+
 - 📫 How to reach me: kit486759@gmail.com or  <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kit486759)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/kit-so-a726a6204/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sugar.kit.7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kitkitkis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kit486759.github.io/Final-Project/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://kitsoo.medium.com/)
 -->
